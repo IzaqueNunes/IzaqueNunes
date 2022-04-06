@@ -32,7 +32,7 @@
   <h6>Tools</h6>
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
     
-  <img align="right" alt="Programming is Awesome" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+  <img align="right" alt="Programming is Awesome" height="150" style="border-radius:50px;width:200px;height:150px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
   
   </div>
   
