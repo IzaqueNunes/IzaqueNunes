@@ -1,4 +1,4 @@
-### 👨‍💻 Hellow call me Izaque, welcome to my Git World! 👋
+### 👨‍💻 Hello i'm Izaque, welcome to my Git World! 👋
 
 - 📎 Currently works as a FullStack Developer
 - 📚 Studying NextJs
@@ -30,10 +30,7 @@
   <img align="center" alt="Izaque-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
   <h6>Tools</h6>
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
-    
-  <img align="right" alt="Programming is Awesome" height="150" style="border-radius:50px;width:200px;height:150px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
-  
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   </div>
   
   ##
