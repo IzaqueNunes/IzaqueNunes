@@ -1,4 +1,4 @@
-### Hellow call me Izaque, welcome to my Git World! 👋
+### 👨‍💻 Hellow call me Izaque, welcome to my Git World! 👋
 
 - 📎 Currently works as a FullStack Developer
 - 📚 Studying NextJs
@@ -39,7 +39,7 @@
   
   ##
  
-  ### 📫 Contact
+  ### 📲 Find me at
 <div> 
   <a href="https://instagram.com/izaque_nunes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:izaquenunes560@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
