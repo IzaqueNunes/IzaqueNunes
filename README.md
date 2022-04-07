@@ -30,6 +30,7 @@
   <img align="center" alt="Izaque-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
   <h6>Tools</h6>
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   </div>
   
