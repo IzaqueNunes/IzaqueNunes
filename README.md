@@ -33,6 +33,7 @@
   <h6>Tools</h6>
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+   <img height="40px" src="https://img.icons8.com/color/48/000000/chakra-ui.png" />
   </div>
   
   ##
