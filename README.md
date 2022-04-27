@@ -1,6 +1,6 @@
 ### 👨‍💻 Hello i'm Izaque, welcome to my Git World! 👋
 
-- 📎 Currently works as a FullStack Developer
+- 📎 Currently works as a FrontEnd Developer
 - 📚 Studying NextJs
 
 ### Activity
