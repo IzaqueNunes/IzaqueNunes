@@ -35,6 +35,7 @@
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img height="40px" src="https://img.icons8.com/color/48/000000/chakra-ui.png" />
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+  <img height="40px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" />
   </div>
   
   ##
