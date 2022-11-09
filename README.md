@@ -37,6 +37,8 @@
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img height="40px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" />
   <img height="40px" src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png" />
+  <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" />
+    
   
   </div>
   
