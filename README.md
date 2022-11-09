@@ -1,7 +1,7 @@
 ### 👨‍💻 Hello i'm Izaque, welcome to my Git World! 👋
 
-- 📎 Currently works as a BackEnd Developer
-- 📚 Studying NextJs
+- 📎 Currently works as a FrontEnd Developer
+- 📚 Studying NextJs and Typescript
 
 ### Activity
 <div align="center">
