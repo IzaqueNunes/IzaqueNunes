@@ -2,6 +2,8 @@
 
 - 📎 Currently works as a FrontEnd Developer
 - 📚 Studying NextJs and Typescript
+- 📚 Bachelor in Information Systems
+- 📚 Master's student in Software Engineering
 
 ### Activity
 <div align="center">
