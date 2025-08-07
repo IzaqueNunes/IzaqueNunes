@@ -1,9 +1,9 @@
 ### 👨‍💻 Hello i'm Izaque, welcome to my Git World! 👋
 
-- 📎 Currently works as a FrontEnd Developer
+- 📚 Master's student in Software Engineering
 - 📚 Studying NextJs and Typescript
 - 📚 Bachelor in Information Systems
-- 📚 Master's student in Software Engineering
+
 
 ### Activity
 <div align="center">
