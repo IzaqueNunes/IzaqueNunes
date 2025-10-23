@@ -1,7 +1,7 @@
 ### 👨‍💻 Hello i'm Izaque, welcome to my Git World! 👋
 
-- 📚 Master's student in Software Engineering
-- 📚 Studying NextJs and Typescript
+- 📚 PhD student
+- 📚 Master's in Software Engineering
 - 📚 Bachelor in Information Systems
 
 
