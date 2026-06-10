@@ -1,5 +1,6 @@
 ### 👨‍💻 Hello i'm Izaque, welcome to my Git World! 👋
 
+- 👨‍🏫 Professor
 - 📚 PhD student
 - 📚 Master's in Software Engineering
 - 📚 Bachelor in Information Systems
